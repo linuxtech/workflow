@@ -11,3 +11,5 @@ https://debian-administration.org/article/717/Setting_up_a_personal_secure_apt_r
 https://wiki.debian.org/SecureApt
 
 sudo apt-key adv --recv-keys  --keyserver-options http-proxy="address:port" --keyserver keyserver.ubuntu.com KEY
+
+cloud.mail.ru/public/wQ1g/kMk5mTxYw
