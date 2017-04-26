@@ -12,3 +12,6 @@ https://wiki.debian.org/SecureApt
 
 sudo apt-key adv --recv-keys  --keyserver-options http-proxy="address:port" --keyserver keyserver.ubuntu.com KEY
 
+http://blog.regolit.com/2013/03/06/understanding-gnupg
+
+gpg --list-packets ./debian-archive-jessie-automatic.gpg
