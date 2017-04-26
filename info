@@ -4,3 +4,10 @@
 
 http://wiki.squid-cache.org/SquidFaq/SquidAcl#ACL_elements
 http://help.ubuntu.ru/wiki/%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9
+
+http://blog.jonliv.es/blog/2011/04/26/creating-your-own-signed-apt-repository-and-debian-packages/
+https://debian-administration.org/article/717/Setting_up_a_personal_secure_apt_repository
+
+https://wiki.debian.org/SecureApt
+
+sudo apt-key adv --recv-keys  --keyserver-options http-proxy="address:port" --keyserver keyserver.ubuntu.com KEY
